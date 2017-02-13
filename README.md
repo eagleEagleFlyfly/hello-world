@@ -1,2 +1,2 @@
 # hello-world
-A formal test
+Python is elegant, machine-learning is mysterious!
